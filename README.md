@@ -1,3 +1,7 @@
+#instalaciones y procesos:
+https://gist.github.com/Klerith/607dd6bb60b5a70bc5e4d9c81ef6501e
+
+
 # Bases
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
